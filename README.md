@@ -3,6 +3,14 @@ Virtual Lab for Web Lab Backend Development Database
 
 Hi all!
 
+## Tasks for 20151007 Virtual Lab
+Today shouldn't take as long as Monday's!
+
+1. Use the database we imported from class.  I know most of you renamed it to `lab-brewery`, but if you haven't, or want to start from scratch, I've included the import file in /Sample Data.
+2. Try to create queries which answer the questions under https://github.com/doofusdavid/db-virtual-lab/blob/master/Questions/20151007%20Lab%202%20Questions.md
+3. That's it!
+
+## Archived tasks for 20151005 Virtual Lab
 So, here are the tasks for this evening!
 
 1. Find the Beer ERD document in the ERD Folder.  Create that database in your own mysql instance (either in your virtual machine, Xamp, Mamp, etc.)
