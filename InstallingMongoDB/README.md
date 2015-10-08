@@ -98,4 +98,8 @@ you should see this line:
 
 		db.restaurants.find({"name":"Taco Bell","restaurant_id":"88888888"}).pretty()
 
+11. How about all restaurants in Brooklyn or the Bronx
+
+		db.restaurants.find({'borough': { $in: ['Bronx', 'Brooklyn'] } } ).pretty()
+
 		
