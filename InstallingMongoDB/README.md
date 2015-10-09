@@ -17,7 +17,7 @@
 
 7. Install the latest stabl version of MongoDB
 
-		sudo apt-get install -y mongodb-org
+		sudo apt-get install -y mongodb
 
 # Running MongoDB
 1. Start the server if it isn't already
