@@ -15,7 +15,7 @@
 
 		sudo apt-get update
 
-7. Install the latest stabl version of MongoDB
+7. Install the latest stable version of MongoDB
 
 		sudo apt-get install -y mongodb
 
