@@ -26,7 +26,7 @@
 
 2. Verify that the service is awaiting input
 
-		tail /var/log/mongodb/mongod.log 
+		tail /var/log/mongodb/mongodb.log 
 
 you should see this line:
 
