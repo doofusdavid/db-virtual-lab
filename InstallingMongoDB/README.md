@@ -22,7 +22,7 @@
 # Running MongoDB
 1. Start the server if it isn't already
 
-		sudo service mongod start
+		sudo service mongodb start
 
 2. Verify that the service is awaiting input
 
